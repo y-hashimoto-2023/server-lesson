@@ -1,0 +1,13 @@
+## Section5 command list
+- ls
+- cd
+- pwd
+- mkdir
+- touch
+- cp
+- mv
+- rm
+- * / ?
+- echo / > / >>
+- vi
+- cat
